@@ -52,4 +52,5 @@ pip install torch==2.7.0 torchvision==0.22.0 torchaudio==2.7.0 --index-url https
 
 验证是否安装成功，返回True代表安装成功了
 
+
 ![image-20260225235530653](./images/image-20260225235530653.png)
